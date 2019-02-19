@@ -1,0 +1,1 @@
+# simple_newsletter_app
